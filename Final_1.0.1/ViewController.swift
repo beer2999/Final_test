@@ -19,6 +19,8 @@ class ViewController: UIViewController {
         print("This is a Git tutorial __finish")
     }
 
-
+    @IBAction func buttonClicked2(_ sender: UIButton) {
+        print("Test2")
+    }
 }
 
