@@ -16,11 +16,11 @@ class ViewController: UIViewController {
     }
     
     @IBAction func buttonClicked(_ sender: UIButton) {
-        print("This is a Git tutorial __finish")
+        print("This is a Git tutorial __finish_")
     }
 
     @IBAction func buttonClicked2(_ sender: UIButton) {
-        print("Test2")
+        print("Test2_Alexa_test")
     }
 }
 
